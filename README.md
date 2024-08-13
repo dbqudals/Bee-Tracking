@@ -5,20 +5,22 @@
 ## 프로젝트 개요
 비 벡터링의 효과를 극대화하기 위해 꿀벌을 추적(Tracking)하여, 소비자가 웹 페이지를 통해 꿀벌의 상태를 실시간으로 확인할 수 있는 서비스를 개발했습니다.
 
-![image](https://github.com/user-attachments/assets/d79526d3-cf5e-4a43-a142-0fbdef4162c2)
+![꿀벌 개요 1](https://github.com/user-attachments/assets/f0cc9f37-06fe-4d0e-be0e-00ad30d64f8f)
 
 ## Preview
 
 ### 대시보드
-![영상업로드](https://github.com/user-attachments/assets/59d017c0-aca8-4c4f-aa03-94f88a74e086)
+<img width="841" alt="꿀벌 대시보드" src="https://github.com/user-attachments/assets/8d36f138-ddba-46a3-a298-853bf5b6f0d1">
 <br/>
 
 ### AI 분석 결과 확인
-![알림서비스](https://github.com/user-attachments/assets/5a358013-ed0b-4901-8422-ce75c5b3ec0d)
+<img width="819" alt="디테일1" src="https://github.com/user-attachments/assets/56102850-1a68-4171-9dac-c883c8d4e8ba">
+<br/>
+<img width="795" alt="디테일2" src="https://github.com/user-attachments/assets/cec005fa-eb74-41de-a9df-137cca65546a">
 <br/>
 
 ### YOLO 결과 분석
-![관리자모드](https://github.com/user-attachments/assets/60a9c6ec-2ca4-40fd-a075-39e3342af417)
+(영상 업로드 예정)
 <br/>
 
 ## Development_Skills
