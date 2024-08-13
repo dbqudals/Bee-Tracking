@@ -9,7 +9,7 @@
 
 ## Preview
 
-### 대시보드
+### 대시보드
 ![영상업로드](https://github.com/user-attachments/assets/59d017c0-aca8-4c4f-aa03-94f88a74e086)
 <br/>
 
@@ -43,7 +43,7 @@
 <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=Pandas&logoColor=white"/> </a>
 <img src="https://img.shields.io/badge/Numpy-013243?style=flat&logo=Numpy&logoColor=white"/> </a>
 <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=OpenCV&logoColor=white"/> </a>
-<img src="https://img.shields.io/badge/yolo-EE4C2C?style=flat&logo=pytorch&logoColor=white"/> </a>
+<img src="https://img.shields.io/badge/yolov5-EE4C2C?style=flat&logo=yolov5&logoColor=white"/> </a>
 
 #### DB
 <img src="https://img.shields.io/badge/sqlite-003B57?style=flat&logo=sqlite&logoColor=white"/></a>
